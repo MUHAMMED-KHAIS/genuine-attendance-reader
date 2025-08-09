@@ -1,3 +1,5 @@
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+
 Rgenuine attendance reader🎯
 Basic Details
 Team Name: mech boys
@@ -51,18 +53,18 @@ Screenshots
 
 Face detected and instantly marked absent.
 
-![Screenshot2](Add screenshot 2)
+<img width="987" height="218" alt="image" src="https://github.com/user-attachments/assets/2454f756-200d-4cef-851e-2648041f2d22" />
+
 Student list with roll numbers and updated attendance.
 
-![Screenshot3](Add screenshot 3)
-CSV output of final attendance report.
 
 Diagrams
-![Workflow](Add diagram)
+
 Webcam → Face Recognition → Roll Number Match → Attendance Update → CSV Export
 
 Project Demo
-Video: [Add your video link]
+![WhatsApp Image 2025-08-09 at 5 29 16 AM](https://github.com/user-attachments/assets/b79d8c33-eefb-4bd1-9434-d00c3ed8e418)
+
 Shows the system marking students absent as soon as their faces are recognized.
 
 Team Contributions
